@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  },
+  "name": "testimonials_grid_section",
+  "version": "1.0.0",
+  "description": "Tarjeta de Testimonios en CSS y HTML5 Con Bootstrap y SASS",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "BUILD-CSS" : "sass ./css/style.scss ./css/style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/synapsevzla/testimonials_grid_section.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/synapsevzla/testimonials_grid_section/issues"
+  },
+  "homepage": "https://github.com/synapsevzla/testimonials_grid_section#readme"
+}
