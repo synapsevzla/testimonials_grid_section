@@ -1,6 +1,6 @@
 # Reto - Testimonials grid section
 
-![Vista previa del reto Testimonials grid section](./preview.jpg)
+![Vista previa del reto Testimonials grid section](./preview.jpeg)
 
 ## Hola y bienvenido al resumen del reto! 👋
 
