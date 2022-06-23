@@ -11124,7 +11124,7 @@ textarea.form-control-lg {
 }
 
 @media (max-width: 620px) {
-  div#Columnas_Moviles .col-7, .col-5 {
+  div#Columnas_Moviles .col-8, .col-4 {
     width: 100%;
   }
 
