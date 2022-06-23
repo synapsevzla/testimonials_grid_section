@@ -11117,9 +11117,31 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+.back-comillas {
+  background-image: url(../images/bg-pattern-quotation.svg);
+  background-repeat: no-repeat;
+  background-position-x: 80%;
+}
+
 @media (max-width: 620px) {
   div#Columnas_Moviles .col-7, .col-5 {
     width: 100%;
+  }
+
+  .translate-middle {
+    transform: translate(0%, 0%) !important;
+  }
+
+  .start-50 {
+    left: 0% !important;
+  }
+
+  .top-50 {
+    top: 0% !important;
+  }
+
+  .position-relative {
+    position: relative;
   }
 }
 @media (min-width: 1440px) {
